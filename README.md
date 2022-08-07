@@ -16,9 +16,11 @@ The Conceptual Data Model as organized following the diagram below:
 
 Following the Conceptual Data Model, we made the logical Model:
 
-![](Módulo%201/Modelo_lógico.png)
+![](Módulo%201/Modelo_logico.png)
 
 And finally, we made the physical Model using MySQL and inputing the data into the database found in the folder "data".
+
+![](Módulo%201/mysql_DBMS_Atividade1.png)
 
 From then we used most commons SQL queries to practice and get the data we need, such as:
 
