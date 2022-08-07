@@ -1,7 +1,7 @@
 # Engenheiros-de-dados-bootcamp
 Repository made to keep track of my current undergoing course in IGTI - Bootcamp Data Engineer
 
--- Module 1 -- Data Engineer Fundamentals
+### Module 1 -- Data Engineer Fundamentals
 
 ## Introduction
 
