@@ -74,3 +74,27 @@ We finished by saving the Dataframe on a Pickle format, that is a new format (fo
 
 Besides my proximity with Python before this Module, it was a good opportunity to learn more about OOP and put some practice in it, as well practicing using another dataset.
 In the end, it was a good experience, although nothing amusing.
+
+## Module 3 -- SQL and NoSQL
+
+In this module, we learnt more about SQL and NoSQL.
+
+As the first module part, we just managed to create a relational database on Azure and did some simple queries.
+Very close to what we did in Module 1, besides now we were using cloud premises.
+
+On the second, we created an Graph Database and a Document Database. Both using Azure too.
+After that, we used the samples database and did very simple queries too.
+
+It was quite a weak module, what we learnt could be done just searching on internet and not spending more than an hour.
+
+## Module 4 -- Data Pipeline
+
+The most expected module for me, as I always wanted to learn about how to schedule and orchestrate an ETL process.
+
+We began with Web Scraping technics and working with some JSON documents. The notebook from the first activity is in the folder and the dataset was removed because of its size.
+
+The second part we learnt about Airflow, Nifi and Prefect. It was good, but just a preparation for the final challenge.
+
+## Final Challenge
+
+In the final challenge, we are going to implement an ETL process with a pipeline using Airflow and containerized with Docker
