@@ -91,10 +91,14 @@ It was quite a weak module, what we learnt could be done just searching on inter
 
 The most expected module for me, as I always wanted to learn about how to schedule and orchestrate an ETL process.
 
-We began with Web Scraping technics and working with some JSON documents. The notebook from the first activity is in the folder and the dataset was removed because of its size.
+We began with Web Scraping technics and working with some JSON documents. The notebook from the first activity is in the folder and the dataset was ignored because of its size.
 
 The second part we learnt about Airflow, Nifi and Prefect. It was good, but just a preparation for the final challenge.
 
-## Final Challenge
+## Final Challenge (Finished on 21 September of 2022)
 
-In the final challenge, we are going to implement an ETL process with a pipeline using Airflow and containerized with Docker
+In the final challenge, we are going to implement an ETL process with a pipeline using Airflow and containerized with Docker.
+
+The challenge was to extract the data from an API from the Brazil Government and from a NoSQL available for us. After the extraction, we had to filter the data by some parameters to include in a Data Warehouse, in this case it was a local Postgresql database. We had to upload all the raw data to AWS S3 too. All of this, using a containerized solution using Docker. All this process was orchestrated with Airflow.
+
+With some challenges, I have accomplished the resolution and gained much experience and knowledge about this topics. It was a very good experience for me to take on this course, although some parts need some adjustment, it was an amazing opportunity.
